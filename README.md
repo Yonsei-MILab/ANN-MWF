@@ -6,7 +6,7 @@ Source code to generate MWF from mGRE in-vivo brain data.
 
 The paper entitled : "Artificial neural network for multi-echo gradient echo based myelin water fraction estimation" was submitted to Magnetic Resonance in Medicine.
 
-When using our code or dataset for research publications, please cite our paper.
+When using our code for research publications, please cite our paper.
 
 ## Usage
 
