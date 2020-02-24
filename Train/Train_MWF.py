@@ -53,3 +53,4 @@ model = train(model, optimizer, criterion, args, training_generator, validation_
 # save model weights
 savePath = "./Model/test.pth"
 torch.save(model.state_dict(), savePath)
+ 
