@@ -59,7 +59,7 @@ class Datagen(data.Dataset):
         self.s_thickness = s_thickness
     
     def __len__(self):
-        return 3000
+        return 40000
 
     def __getitem__(self, idx):
         
