@@ -26,8 +26,8 @@ args = parse.parse_args("")
 
 args.optim = 'Adam'
 args.lr = 0.0001
-args.epoch = 300
-args.batch_size = 1000
+args.epoch = 200
+args.batch_size = 2000
 
 if args.optim == 'Adam':
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
